@@ -1,0 +1,11 @@
+C:\Users\-\Desktop\exam 4\UserManagementSolution\bin\Debug\net9.0\UserManagementSolution.deps.json
+C:\Users\-\Desktop\exam 4\UserManagementSolution\bin\Debug\net9.0\UserManagementSolution.dll
+C:\Users\-\Desktop\exam 4\UserManagementSolution\bin\Debug\net9.0\UserManagementSolution.pdb
+C:\Users\-\Desktop\exam 4\UserManagementSolution\obj\Debug\net9.0\UserManagementSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\-\Desktop\exam 4\UserManagementSolution\obj\Debug\net9.0\UserManagementSolution.AssemblyInfoInputs.cache
+C:\Users\-\Desktop\exam 4\UserManagementSolution\obj\Debug\net9.0\UserManagementSolution.AssemblyInfo.cs
+C:\Users\-\Desktop\exam 4\UserManagementSolution\obj\Debug\net9.0\UserManagementSolution.csproj.CoreCompileInputs.cache
+C:\Users\-\Desktop\exam 4\UserManagementSolution\obj\Debug\net9.0\UserManagementSolution.dll
+C:\Users\-\Desktop\exam 4\UserManagementSolution\obj\Debug\net9.0\refint\UserManagementSolution.dll
+C:\Users\-\Desktop\exam 4\UserManagementSolution\obj\Debug\net9.0\UserManagementSolution.pdb
+C:\Users\-\Desktop\exam 4\UserManagementSolution\obj\Debug\net9.0\ref\UserManagementSolution.dll
