@@ -25,7 +25,7 @@ IceCream iceCream = new IceCream();
 iceCream.Flavors();
 
 System.Console.WriteLine();
-while (true)
+for (;;)
 {
     System.Console.WriteLine();
     System.Console.WriteLine("Choose an option: ");
@@ -65,7 +65,7 @@ while (true)
         UserManager manager = new UserManager();
         manager.ShowAllUsers();
     }
-    if (choice == "5")
+    if (choice == "0")
     {
         System.Console.WriteLine("Exiting, bye.");
         break;
