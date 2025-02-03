@@ -45,11 +45,10 @@ public class UserManager
                 System.Console.WriteLine("User's role has been changed successefully.");
                 break;
             }
-
-            if (!found)
-            {
-                System.Console.WriteLine("User is not found.");
-            }
+        }
+        if (!found)
+        {
+            System.Console.WriteLine("User is not found.");
         }
     }
 

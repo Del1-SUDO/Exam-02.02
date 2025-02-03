@@ -24,6 +24,7 @@ System.Console.WriteLine();
 IceCream iceCream = new IceCream();
 iceCream.Flavors();
 
+UserManager manager = new UserManager();
 System.Console.WriteLine();
 for (;;)
 {
@@ -41,7 +42,6 @@ for (;;)
         User user = new User(1, "John", "John@gmail.com", "Waiter");
         User user2 = new User(2, "Jack", "Jack@gmail.com", "Client");
         User user3 = new User(3, "Anton", "Anton@gmail.com", "Client");
-        UserManager manager = new UserManager();
         manager.AddUsers(user);
         manager.AddUsers(user2);
         manager.AddUsers(user3);
@@ -50,19 +50,16 @@ for (;;)
     if (choice == "2")
     {
         System.Console.WriteLine("Removing a user...");
-        UserManager manager = new UserManager();
         manager.RemoveUsers(1);
     }
     if (choice == "3")
     {
         System.Console.WriteLine("Changing user's role: ");
-        UserManager manager = new UserManager();
         manager.ChangeRoleOfUser(2, "Admin");
     }
     if (choice == "4")
     {
         System.Console.WriteLine("List of all users: ");
-        UserManager manager = new UserManager();
         manager.ShowAllUsers();
     }
     if (choice == "0")

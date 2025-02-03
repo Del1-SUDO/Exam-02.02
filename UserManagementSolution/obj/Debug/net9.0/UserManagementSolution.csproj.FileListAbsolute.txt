@@ -9,3 +9,4 @@ C:\Users\-\Desktop\exam 4\UserManagementSolution\obj\Debug\net9.0\UserManagement
 C:\Users\-\Desktop\exam 4\UserManagementSolution\obj\Debug\net9.0\refint\UserManagementSolution.dll
 C:\Users\-\Desktop\exam 4\UserManagementSolution\obj\Debug\net9.0\UserManagementSolution.pdb
 C:\Users\-\Desktop\exam 4\UserManagementSolution\obj\Debug\net9.0\ref\UserManagementSolution.dll
+C:\Users\-\Desktop\exam 4\UserManagementSolution\obj\Debug\net9.0\UserManagementSolution.sourcelink.json
